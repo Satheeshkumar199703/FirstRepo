@@ -5,6 +5,8 @@ import java.util.*;
 public class JavaTraining {
 	public static void main(String[] args) {
 		
+		System.out.println("pgrm to find the no of occurance of each character in a string");
+		
 		Scanner sc = new Scanner(System.in);
 		String s = sc.nextLine();
 		char[] s1= s.toCharArray();
